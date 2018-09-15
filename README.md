@@ -1,2 +1,3 @@
 # Bored-Bot
-A reddit bot that responses to the phrase "I am bored" and responds with an entertaining quick video 
+
+Feel free to take the code and make a bot for yourself the code is readable and easy to modify to your own liking.
